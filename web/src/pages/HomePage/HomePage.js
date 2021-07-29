@@ -19,7 +19,7 @@ const HomePage = () => {
 }
 
 const TestCase = tw.div`
-  text-red-500
+  text-customColor
 `
 
 export default HomePage
